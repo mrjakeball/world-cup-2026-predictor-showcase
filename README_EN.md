@@ -9,6 +9,7 @@
 </p>
 
 <p align="center">
+  <a href="https://courageous-elf-34b597.netlify.app"><img src="https://img.shields.io/badge/▶_OPEN_PROJECT-8B5CF6?style=for-the-badge" alt="Open project" height="27" /></a>
   <a href="https://github.com/mrjakeball/portfolio/blob/main/README_EN.md"><img src="https://img.shields.io/badge/📚_ALL_PROJECTS-21262D?style=for-the-badge" alt="All projects" height="27" /></a>
   <a href="https://github.com/mrjakeball"><img src="https://img.shields.io/badge/↩_PROFILE-21262D?style=for-the-badge&logo=github&logoColor=white" alt="Profile" height="27" /></a>
 </p>
@@ -40,11 +41,11 @@ A prediction needs to stay consistent from the first group results through the b
 | | |
 | :--- | :--- |
 | ⚽ **Format** | Interactive tournament predictor |
-| 🚦 **Status** | In development |
-| 🌐 **Public build** | Not available yet |
+| 🚦 **Status** | Live build published |
+| 🌐 **Live version** | [Open project ↗](https://courageous-elf-34b597.netlify.app) |
 | 🧠 **State** | Zustand |
-| 🧪 **Tests** | Vitest |
-| 🔒 **Source** | Private; this repository is a showcase |
+| 🧪 **Tests** | Vitest · 26 tests |
+| 🔒 **Source** | Private; this repository is a public showcase |
 
 ## 🖼️ Interface
 
