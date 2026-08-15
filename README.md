@@ -9,6 +9,7 @@
 </p>
 
 <p align="center">
+  <a href="https://courageous-elf-34b597.netlify.app"><img src="https://img.shields.io/badge/▶_ОТКРЫТЬ_ПРОЕКТ-8B5CF6?style=for-the-badge" alt="Открыть проект" height="27" /></a>
   <a href="https://github.com/mrjakeball/portfolio"><img src="https://img.shields.io/badge/📚_ВСЕ_ПРОЕКТЫ-21262D?style=for-the-badge" alt="Все проекты" height="27" /></a>
   <a href="https://github.com/mrjakeball"><img src="https://img.shields.io/badge/↩_ПРОФИЛЬ-21262D?style=for-the-badge&logo=github&logoColor=white" alt="Профиль" height="27" /></a>
 </p>
@@ -40,11 +41,11 @@
 | | |
 | :--- | :--- |
 | ⚽ **Формат** | Интерактивный tournament predictor |
-| 🚦 **Статус** | В разработке |
-| 🌐 **Публичная версия** | Пока нет |
+| 🚦 **Статус** | Рабочая версия опубликована |
+| 🌐 **Публичная версия** | [Открыть сайт ↗](https://courageous-elf-34b597.netlify.app) |
 | 🧠 **State** | Zustand |
-| 🧪 **Тесты** | Vitest |
-| 🔒 **Исходники** | Приватные; здесь витрина |
+| 🧪 **Тесты** | Vitest · 26 тестов |
+| 🔒 **Исходники** | Приватные; здесь публичная витрина |
 
 ## 🖼️ Интерфейс
 
