@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="260" viewBox="0 0 640 260" role="img" aria-labelledby="title desc">
+  <title id="title">World Cup 2026 Predictor</title>
+  <desc id="desc">Blue and gold project card with tournament bracket paths</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#081221"/><stop offset="1" stop-color="#153A66"/></linearGradient><linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#FDE68A"/><stop offset="1" stop-color="#D6A42D"/></linearGradient></defs>
+  <rect width="640" height="260" rx="18" fill="url(#bg)"/>
+  <g transform="translate(432 54)" fill="none" stroke="#60A5FA" stroke-width="2" opacity=".66">
+    <path d="M0 0h44v34h52M0 54h44V34M0 100h44V76h52M0 152h44V76M96 34h44v42h56M96 76h44"/>
+    <g fill="url(#gold)" stroke="none"><circle r="5"/><circle cy="54" r="5"/><circle cy="100" r="5"/><circle cy="152" r="5"/><circle cx="196" cy="76" r="7"><animate attributeName="opacity" values=".4;1;.4" dur="2.8s" repeatCount="indefinite"/></circle></g>
+  </g>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+    <text x="34" y="42" fill="#9BB6D1" font-size="16" letter-spacing="2">FAN-MADE · TOURNAMENT FLOW</text>
+    <text x="34" y="91" fill="#F8FAFC" font-size="29" font-weight="700">WORLD CUP 2026</text>
+    <text x="34" y="127" fill="#FDE68A" font-size="25" font-weight="600">PREDICTOR</text>
+    <text x="36" y="158" fill="#BFDBFE" font-size="17">Groups to knockout export</text>
+    <g font-size="15" fill="#102A4C">
+      <rect x="34" y="184" width="76" height="30" rx="7" fill="#FDE68A"/><text x="49" y="205">REACT</text>
+      <rect x="118" y="184" width="82" height="30" rx="7" fill="#FDE68A"/><text x="132" y="205">ZUSTAND</text>
+      <rect x="208" y="184" width="74" height="30" rx="7" fill="#FDE68A"/><text x="222" y="205">VITEST</text>
+    </g>
+  </g>
+  <rect x="1" y="1" width="638" height="258" rx="17" fill="none" stroke="#2B5A87" stroke-width="2"/>
+</svg>
+

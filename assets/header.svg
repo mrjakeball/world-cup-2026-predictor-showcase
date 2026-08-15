@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">World Cup 2026 Predictor</title>
+  <desc id="desc">Blue and gold bracket banner for an unofficial tournament prediction project</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#081221"/><stop offset="1" stop-color="#102A4C"/></linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#FDE68A"/><stop offset="1" stop-color="#D6A42D"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#2E5A88" opacity=".22"/></pattern>
+  </defs>
+  <rect width="1200" height="260" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="260" rx="18" fill="url(#grid)"/>
+  <g fill="none" stroke="#60A5FA" stroke-width="2" opacity=".58">
+    <path d="M804 62h70v42h72"/><path d="M804 126h70v-22"/><path d="M804 194h70v-42h72"/><path d="M804 142h70v10"/><path d="M946 104h72v24h88"/><path d="M946 152h72v-24"/>
+  </g>
+  <g fill="url(#gold)"><circle cx="804" cy="62" r="5"/><circle cx="804" cy="126" r="5"/><circle cx="804" cy="194" r="5"/><circle cx="804" cy="142" r="5"/><circle cx="1106" cy="128" r="7"><animate attributeName="opacity" values=".45;1;.45" dur="2.8s" repeatCount="indefinite"/></circle></g>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+    <text x="54" y="52" fill="#93AFCB" font-size="15" letter-spacing="3">FAN-MADE STUDY · GROUPS / BRACKET / AWARDS</text>
+    <text x="54" y="123" fill="#F8FAFC" font-size="38" font-weight="700">WORLD CUP 2026</text>
+    <text x="54" y="164" fill="#FDE68A" font-size="28" font-weight="600">PREDICTOR</text>
+    <text x="958" y="52" fill="#FDE68A" font-size="15">UNOFFICIAL / DEMO</text>
+  </g>
+  <rect x="1" y="1" width="1198" height="258" rx="17" fill="none" stroke="#27496D" stroke-width="2"/>
+</svg>
