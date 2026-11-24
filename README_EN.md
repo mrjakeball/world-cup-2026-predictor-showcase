@@ -23,9 +23,13 @@ Zustand connects group standings, third-place rankings and the knockout bracket.
 
 An independent fan project. Rosters and awards in the screenshots illustrate the prediction workflow.
 
-## Original images
+## A route through the live demo
 
-[Opening the live predictor](assets/screen-tournament-start.jpg) · [Award selection](assets/screen-awards-desktop.jpg) · [Selected player](assets/screen-player-selected.jpg) · [Mobile awards](assets/screen-awards-mobile.jpg)
+**[Starting a prediction](assets/screen-tournament-start.jpg)** · The landing page outlines the route to the final. Start with group results to see how standings feed into the bracket.
+
+**[Individual awards](assets/screen-awards-desktop.jpg)** · The player awards accompany the team prediction. This view shows the top-scorer category.
+
+**[Selected player](assets/screen-player-selected.jpg)** · The card on the left shows the pick for that award as part of the user’s prediction.
 
 <details>
 <summary>View the gallery</summary>
