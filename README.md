@@ -1,7 +1,7 @@
 <p>
-<a href="README.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/ui/ru-on.svg" height="32" alt="Русский · выбран"></a>
-<a href="README_EN.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/ui/en-off.svg" height="32" alt="English"></a>
-<a href="https://github.com/mrjakeball/portfolio"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/ui/catalog-ru.svg" height="32" alt="Каталог проектов"></a>
+<a href="README.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/ru-on.svg" height="44" alt="Русский · выбран"></a>
+<a href="README_EN.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/en-off.svg" height="44" alt="English"></a>
+<a href="https://github.com/mrjakeball/portfolio"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/catalog-ru.svg" height="44" alt="Каталог проектов"></a>
 </p>
 
 # World Cup 2026 Predictor
@@ -10,7 +10,7 @@
 
 ![World Cup 2026 Predictor — Начало прогноза в опубликованной версии](assets/social-preview.jpg)
 
-<a href="https://courageous-elf-34b597.netlify.app/"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/links/cup-ru.svg" height="36" alt="Открыть прогноз"></a>
+<a href="https://courageous-elf-34b597.netlify.app/"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/buttons/cup-ru.svg" height="36" alt="Открыть прогноз"></a>
 
 Опубликованная демоверсия · Публичная витрина приватного проекта  
 React · TypeScript · Vite · Zustand · Vitest

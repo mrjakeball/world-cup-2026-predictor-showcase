@@ -1,7 +1,7 @@
 <p>
-<a href="README.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/ui/ru-off.svg" height="32" alt="Русский"></a>
-<a href="README_EN.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/ui/en-on.svg" height="32" alt="English · selected"></a>
-<a href="https://github.com/mrjakeball/portfolio/blob/main/README_EN.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/ui/catalog-en.svg" height="32" alt="Project catalogue"></a>
+<a href="README.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/ru-off.svg" height="44" alt="Русский"></a>
+<a href="README_EN.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/en-on.svg" height="44" alt="English · selected"></a>
+<a href="https://github.com/mrjakeball/portfolio/blob/main/README_EN.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/catalog-en.svg" height="44" alt="Project catalogue"></a>
 </p>
 
 # World Cup 2026 Predictor
@@ -10,7 +10,7 @@ A football tournament predictor. Group results determine the knockout field, and
 
 ![World Cup 2026 Predictor — Opening the live predictor](assets/social-preview.jpg)
 
-<a href="https://courageous-elf-34b597.netlify.app/"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/links/cup-en.svg" height="36" alt="Open the predictor"></a>
+<a href="https://courageous-elf-34b597.netlify.app/"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/buttons/cup-en.svg" height="36" alt="Open the predictor"></a>
 
 Published demo · Public showcase of a private project  
 React · TypeScript · Vite · Zustand · Vitest
