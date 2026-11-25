@@ -10,7 +10,7 @@
 
 ![World Cup 2026 Predictor — Начало прогноза в опубликованной версии](assets/social-preview.jpg)
 
-[Открыть прогноз ↗](https://courageous-elf-34b597.netlify.app/)
+<a href="https://courageous-elf-34b597.netlify.app/"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/actions/cup-ru.svg" height="36" alt="Открыть прогноз"></a>
 
 Опубликованная демоверсия · Публичная витрина приватного проекта  
 React · TypeScript · Vite · Zustand · Vitest
